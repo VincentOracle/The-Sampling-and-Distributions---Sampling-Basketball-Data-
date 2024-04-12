@@ -1,1 +1,1 @@
-Sampling distributions
+Sampling distributions of Basketball 🏀  data
